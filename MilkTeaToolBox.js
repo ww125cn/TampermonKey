@@ -2,8 +2,8 @@
 // @name         奶茶工具箱
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  try to take over the world!
-// @author       You
+// @description  我的第一个脚本，屏蔽广告🪧
+// @author       𓃬
 // @match        *://*/*
 // @icon         https://raw.githubusercontent.com/ww125cn/Shadowrocket/main/favicon.ico
 // @grant        unsafeWindow
