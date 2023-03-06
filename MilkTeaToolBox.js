@@ -32,5 +32,6 @@
         GM_addStyle('.wp.a_t.ad-tips{display:none !important}')
         GM_addStyle('.a_pt{display:none !important}')
         GM_addStyle('.a_pb{display:none !important}')
+        GM_addStyle('.forumlist_ad:none !important}')
     }
 })();
