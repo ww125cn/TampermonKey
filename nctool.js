@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         奶茶工具箱
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.1
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.xp.cn/*
 // @match        http://www.yinghuacd.com/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://raw.githubusercontent.com/ww125cn/Shadowrocket/main/favicon.ico
 // @grant        unsafeWindow
 // @grant        GM_addStyle
 
