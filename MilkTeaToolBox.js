@@ -2,7 +2,7 @@
 // @name         奶茶工具箱
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  我的第一个脚本，屏蔽广告🪧
+// @description  2023-3-6,第一个脚本。屏蔽广告🪧
 // @author       𓃬
 // @match        *://*/*
 // @icon         https://raw.githubusercontent.com/ww125cn/Shadowrocket/main/favicon.ico
@@ -12,6 +12,7 @@
 // ==/UserScript==
 
 (function() {
+    //alert('HelloWorld')
     let weburl=unsafeWindow.location.href
     if(weburl.indexOf('www.yinghuacd.com')!=-1)
     {
@@ -22,7 +23,6 @@
     }
     if(weburl.indexOf('www.xp.cn')!=-1)
     {
-        //alert('HelloWorld')
         GM_addStyle('.wenda_top{display:none !important}')
         GM_addStyle('.mt-10.linux-ads.layui-main{display:none !important}')
     }
