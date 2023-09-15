@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         奶茶工具箱
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  2023-3-6,第一个脚本。屏蔽广告🪧
 // @author       𓃬
 // @match        *://*/*
